@@ -135,6 +135,9 @@ git push -u origin main
 
 </details>
 
+## Modifications
+- Created additional frequency table to include stop words
+
 ## Notes
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
