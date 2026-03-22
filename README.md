@@ -137,6 +137,8 @@ git push -u origin main
 
 ## Modifications
 - Created additional frequency table to include stop words
+- Changed data source to the Declaration of Independence
+- Added more stop words
 
 ## Notes
 
